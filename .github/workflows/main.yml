@@ -1,0 +1,12 @@
+name: Lint
+on: [push]
+
+jobs:
+  build:
+    name: Lint
+    # This job runs on Linux
+    runs-on: ubuntu-latest
+    steps:
+      # This step prints an output (time) from the previous step's action.
+      - name: Lint
+        run: make lint
