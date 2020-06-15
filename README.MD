@@ -2,3 +2,4 @@
 ![](https://github.com/pahan35/frontend-project-lvl1/workflows/Lint/badge.svg)
 [brain-even asciinema(terminal recording)](https://asciinema.org/a/WmyVkmn9sMwZr1HYwpQI04Gn9)
 [brain-calc asciinema(terminal recording)](https://asciinema.org/a/HM9AzmuOM30XnJMXk26trHZmF)
+[brain-gcd asciinema(terminal recording)](https://asciinema.org/a/5qt5vOCTrI99sx5gdYam3fJN8)
